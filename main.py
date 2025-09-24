@@ -10,7 +10,7 @@ GITHUB_TOKEN = env["GITHUB_TOKEN"]
 
 # Todos seus repositorios:  ["username/*"] ou 
 # Repositorios especificos: ["username/repo1", "username/repo2"] ...
-repos = ["bpthiago/oraculo-documentation", "bpthiago/oraculo"]
+repos = ["bedrohenr/oraculo"]
 
 # Quais informações deseja trazer do github
 streams = ["issues", "repositories", "pull_requests", "commits", "teams", "users", "issue_milestones", "projects_v2", "team_members", "team_memberships", "assignees", "branches","pull_request_commits"]
